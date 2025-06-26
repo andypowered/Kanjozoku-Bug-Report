@@ -2,7 +2,7 @@
 
 Неофициальная база багов для игры Kanjozoku レーサ Racing Car Games
 
-![Game Screenshot](https://example.com/screenshot.jpg) *(замените на реальное изображение)*
+https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/kanjozoku.webp
 
 **Тестовое окружение:**  
 🖥️ **Эмулятор:** Nox Player 7.0.5.9 (Android 9)  
