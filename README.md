@@ -79,10 +79,8 @@
 
 ## 📸 Скриншоты игры 
 
-![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_1_2025-06-27_02-34-12.jpg)
-![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_2_2025-06-27_02-34-12.jpg)
-![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_3_2025-06-27_02-34-12.jpg)
-![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_4_2025-06-27_02-34-12.jpg)
+![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_1_2025-06-27_02-34-12.jpg) ![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_2_2025-06-27_02-34-12.jpg)
+![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_3_2025-06-27_02-34-12.jpg) ![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_4_2025-06-27_02-34-12.jpg)
 ![](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/photo_5_2025-06-27_02-34-12.jpg)
 
 
