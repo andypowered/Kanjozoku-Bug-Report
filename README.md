@@ -81,21 +81,21 @@
 
 <div align="center">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_1_2025-06-27_02-34-12.jpg" 
-         height="380" 
+         height="380" width="380" 
          style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_2_2025-06-27_02-34-12.jpg" 
-         height="380" 
+         height="380" width="380"
          style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
   <br>
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_3_2025-06-27_02-34-12.jpg" 
-         height="380" 
+         height="380" width="380"
          style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_4_2025-06-27_02-34-12.jpg" 
-         height="380" 
+         height="380" width="380"
          style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
     <br>
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_5_2025-06-27_02-34-12.jpg" 
-         height="380" 
+         height="380" width="380"
          style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
 </div>
 
