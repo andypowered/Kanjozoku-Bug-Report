@@ -80,38 +80,23 @@
 ## 📸 Скриншоты игры 
 
 <div align="center">
-  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_1_2025-06-27_02-34-12.jpg">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_1_2025-06-27_02-34-12.jpg" 
-         width="180" 
-         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
-         alt="Баг с текстурами">
-  </a>
-  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_2_2025-06-27_02-34-12.jpg">
+         width="380" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_2_2025-06-27_02-34-12.jpg" 
-         width="180" 
-         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
-         alt="Баг с физикой">
-  </a>
+         width="380" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
   <br>
-  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_3_2025-06-27_02-34-12.jpg">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_3_2025-06-27_02-34-12.jpg" 
-         width="180" 
-         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
-         alt="Баг интерфейса">
-  </a>
-  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_4_2025-06-27_02-34-12.jpg">
+         width="380" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_4_2025-06-27_02-34-12.jpg" 
-         width="180" 
-         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
-         alt="Графический баг">
-  </a>
-  <br>
-  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_5_2025-06-27_02-34-12.jpg">
+         width="380" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
+    <br>
     <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_5_2025-06-27_02-34-12.jpg" 
-         width="180" 
-         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
-         alt="Баг оптимизации">
-  </a>
+         width="380" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;">
 </div>
 
 Игра цепляет атмосферой тюнинг-культуры 90-х, но убивает сыростью и багами. Если доработать физику, починить баги и убрать агрессивную монетизацию – будет твердая 4/5. Пока что – только для фанатов жанра, готовых терпеть косяки.
