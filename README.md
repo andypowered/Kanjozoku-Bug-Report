@@ -79,14 +79,40 @@
 
 ## 📸 Скриншоты игры 
 
-| Баг с текстурами | Баг с физикой |
-|------------------|---------------|
-| ![Текстуры](https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_1_2025-06-27_02-34-12.jpg) | ![Физика](https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_2_2025-06-27_02-34-12.jpg) |
-| **Баг интерфейса** | **Графический баг** |
-| ![Интерфейс](https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_3_2025-06-27_02-34-12.jpg) | ![Графика](https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_4_2025-06-27_02-34-12.jpg) |
-| **Оптимизация** | |
-| ![Оптимизация](https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_5_2025-06-27_02-34-12.jpg) | |
-
+<div align="center">
+  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_1_2025-06-27_02-34-12.jpg">
+    <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_1_2025-06-27_02-34-12.jpg" 
+         width="180" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
+         alt="Баг с текстурами">
+  </a>
+  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_2_2025-06-27_02-34-12.jpg">
+    <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_2_2025-06-27_02-34-12.jpg" 
+         width="180" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
+         alt="Баг с физикой">
+  </a>
+  <br>
+  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_3_2025-06-27_02-34-12.jpg">
+    <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_3_2025-06-27_02-34-12.jpg" 
+         width="180" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
+         alt="Баг интерфейса">
+  </a>
+  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_4_2025-06-27_02-34-12.jpg">
+    <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_4_2025-06-27_02-34-12.jpg" 
+         width="180" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
+         alt="Графический баг">
+  </a>
+  <br>
+  <a href="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_5_2025-06-27_02-34-12.jpg">
+    <img src="https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/photo_5_2025-06-27_02-34-12.jpg" 
+         width="180" 
+         style="margin: 5px; border: 2px solid #555; border-radius: 5px;"
+         alt="Баг оптимизации">
+  </a>
+</div>
 
 Игра цепляет атмосферой тюнинг-культуры 90-х, но убивает сыростью и багами. Если доработать физику, починить баги и убрать агрессивную монетизацию – будет твердая 4/5. Пока что – только для фанатов жанра, готовых терпеть косяки.
 
