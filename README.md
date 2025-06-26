@@ -102,7 +102,7 @@
 ## 🎮 Game Experience
 
 <div align="center">
-[![Preview](https://github.com/andypowered/Kanjozoku-Bug-Report/raw/main/screenshots/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2025-06-27_025854740.png)](https://youtu.be/rmd4EB07JUk)
+[![Preview](https://github.com/andypowered/Kanjozoku-Bug-Report/blob/main/screenshots/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2025-06-27_025854740.png)](https://youtu.be/rmd4EB07JUk)
 
   <em>Нажмите на изображение для просмотра видео</em>
   </div>
