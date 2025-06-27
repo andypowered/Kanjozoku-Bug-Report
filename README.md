@@ -105,7 +105,7 @@
 
   <em>Нажмите на изображение для просмотра видео</em>
 
-  [![Preview](https://youtu.be/04ZBSu0bIzQ)](https://youtu.be/04ZBSu0bIzQ)
+  [![Preview](https://img.youtube.com/vi/04ZBSu0bIzQ/hqdefault.jpg)](https://youtu.be/04ZBSu0bIzQ)
 
   <em>Нажмите на изображение для просмотра видео</em>
   
